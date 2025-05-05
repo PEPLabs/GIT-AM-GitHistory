@@ -1,3 +1,3 @@
 # Daily Tips
 
-- Don't forgt to take brakes throughout the day to keep yurself sane. 
+- Don't forget to take breaks throughout the day to keep yourself sane. 
