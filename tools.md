@@ -8,3 +8,9 @@
 
 - A Pomodoro Time - The Pomodoro Technique is a method of blocking time into work and break intervals. This is useful for ensuring you keep focused throughout your workday while still taking small, but necessary breaks.
     - A free online one can be found here: https://pomofocus.io/
+
+
+
+---
+
+![Cat getting massage](./images/cat.gif)
