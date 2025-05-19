@@ -5,3 +5,7 @@
 - Stretch or walk during breaks
 - Check your posture!
 
+## Structure Your Focus
+- Use time blocks for deep work.
+- Begin your day with the most important or mentally demanding task.
+- Plan tomorrow today: Wrap up your day by writing a quick plan for the next.
